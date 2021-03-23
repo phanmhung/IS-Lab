@@ -1,0 +1,3 @@
+F:\Интеллектуальные системы\demo\demo\Debug\demo.vcxprojAssemblyReference.cache
+F:\Интеллектуальные системы\demo\demo\Debug\demo.MyForm.resources
+F:\Интеллектуальные системы\demo\demo\Debug\demo.vcxproj.GenerateResource.cache
